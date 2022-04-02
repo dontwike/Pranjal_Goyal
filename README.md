@@ -6,9 +6,9 @@
 
 ## About Me
 
-- 🌱 I’m picking up [![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)], [![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)].
+- ![image](https://user-images.githubusercontent.com/100211916/161381596-ad2430af-1841-47d2-bb9e-cdf6948ce96a.png) I’m picking up [![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)], [![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)].
 
-- 📫 How to reach me:
+- 📫Contact me:
 <a href="mailto:itspranjal00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/dontwike"><img src="https://img.shields.io/badge/-@dontwike_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
