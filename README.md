@@ -40,5 +40,5 @@
  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dontwike&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dontwike&hide_border=true" />
+  <img width="39%" src="https://github-readme-streak-stats.herokuapp.com/?user=dontwike&hide_border=true" />
 </p>
