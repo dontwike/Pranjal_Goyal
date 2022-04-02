@@ -10,7 +10,7 @@
 
 - 📫 How to reach me:
 <a href="mailto:itspranjal00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/dontwike"><img src="https://img.shields.io/badge/-@anilfromdit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/dontwike"><img src="https://img.shields.io/badge/-@dontwike_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 
