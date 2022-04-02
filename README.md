@@ -9,7 +9,7 @@
 - 🌱 I’m picking up [![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)], [![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)].
 
 - 📫 How to reach me:
-<a href=https://www.linkedin.com/in/pranjal-goyal-9a8a9a213"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href=https://www.linkedin.com/in/pranjal-goyal-9a8a9a213/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:itspranjal00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/dontwike"><img src="https://img.shields.io/badge/-@anilfromdit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
