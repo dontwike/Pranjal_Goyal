@@ -35,10 +35,3 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)]
                                                                                                                                                 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)]
-
- ## 📈 Progress Report
- 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dontwike&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
-   <img width="48%" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dontwike&theme=tokyonight_duo&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)" />
-</p>
