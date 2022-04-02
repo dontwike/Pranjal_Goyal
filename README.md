@@ -35,7 +35,7 @@
                                                                                                                                                 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)]
 
- ## 📈 Stats
+ ## 📈 Progress Report
  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dontwike&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
