@@ -40,5 +40,6 @@
  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dontwike&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
-  <img width="42%" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dontwike&theme=tokyonight_duo&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)" />
+  
 </p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dontwike&theme=tokyonight_duo&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
