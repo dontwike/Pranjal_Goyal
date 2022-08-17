@@ -12,14 +12,12 @@
 - 📫 My email **itspranjal00@gmail.com**
 <br/>
 
-
 ## About Me
 
 - I’m picking up:
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)]
 [![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]
 <br/>
-
 
 ## Operating System & Tools
 
@@ -28,7 +26,6 @@
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 <br/>
-       
        
 ## Technology Stack
                                                                                                                                                 
@@ -41,8 +38,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)]
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)]
-<br/>
-<br/>
 
 
 <h3 align="center">Connect with me:</h3>
