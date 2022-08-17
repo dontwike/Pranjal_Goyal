@@ -1,4 +1,15 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman-pokhriyal&theme=dark&show_icons=true" alt="NamanPokhriyal" /></p>
+<h1 align="center">Hi 👋, I'm Pranjal Goyal</h1>
+<h3 align="center">A Backend Developer</h3>
+<br/>
+
+- 🔭 I’m currently pursuing my B.Tech in Computer Science and Engineering (CSE) from **DIT University**
+
+- 👀 I’m interested in Web-Development, Software development and languages like C, Python, Java, Javascript.
+
+- 👯 I’m looking to collaborate on **Any interesting projects with Java, Javascript or Python**
+
+- 📫 My email **itspranjal00@gmail.com**
+<br/>
 
 - Learning Spring Boot.
 
