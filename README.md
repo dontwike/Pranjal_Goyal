@@ -11,9 +11,6 @@
 - 📫 My email **itspranjal00@gmail.com**
 <br/>
 
-- Learning Spring Boot.
-
-
 ## About Me
 
 - I’m picking up:
