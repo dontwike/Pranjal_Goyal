@@ -1,6 +1,5 @@
-![](https://komarev.com/ghpvc/?username=dontwike&style=flat-square)
 <h1 align="center">Hi 👋, I'm Pranjal Goyal</h1>
-<h3 align="center">A Backend Developer</h3>
+<h3 align="center">A Backend Developer</h3> ![](https://komarev.com/ghpvc/?username=dontwike&style=flat-square)
 <br/>
 
 - 🔭 I’m currently pursuing my B.Tech in Computer Science and Engineering (CSE) from **DIT University**
