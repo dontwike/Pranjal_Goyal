@@ -42,6 +42,7 @@
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)]
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)]
 <br/>
+<br/>
 
 
 <h3 align="center">Connect with me:</h3>
