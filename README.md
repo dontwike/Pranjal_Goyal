@@ -1,6 +1,4 @@
-<!-- <hr>
 
-<p>&nbsp;<img align="center" alt="PranjalGoyal" /></p>
 
 - Learning Spring Boot.
 
