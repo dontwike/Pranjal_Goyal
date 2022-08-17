@@ -1,6 +1,6 @@
 <!-- <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman-pokhriyal&theme=dark&show_icons=true" alt="NamanPokhriyal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dontwike&theme=dark&show_icons=true" alt="PranjalGoyal" /></p>
 
 - Learning Spring Boot.
 
