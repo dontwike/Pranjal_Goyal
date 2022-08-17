@@ -1,5 +1,5 @@
+![](https://komarev.com/ghpvc/?username=dontwike&style=for-the-badge)
 <h1 align="center">Hi 👋, I'm Pranjal Goyal</h1>
-![](https://komarev.com/ghpvc/?username=dontwike&style=flat-square)
 <h3 align="center">A Backend Developer</h3>
 <br/>
 
