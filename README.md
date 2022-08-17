@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pranjal Goyal</h1> #![](https://komarev.com/ghpvc/?username=dontwike&style=flat-square)
+![](https://komarev.com/ghpvc/?username=dontwike&style=flat-square)
+<h1 align="center">Hi 👋, I'm Pranjal Goyal</h1>
 <h3 align="center">A Backend Developer</h3>
 <br/>
 
