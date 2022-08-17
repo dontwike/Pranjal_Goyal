@@ -15,7 +15,7 @@
 ## About Me
 
 - I’m picking up:
-<br/>
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) &nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) &nbsp;
 
