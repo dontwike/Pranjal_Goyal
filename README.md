@@ -65,6 +65,40 @@ I am diligently working towards becoming a full-stack developer.
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)&nbsp;
 
+<br>
+
+
+## 📊 GitHub Stats
+<br>
+<div align=center>
+       
+![dontwike's Stats](https://github-readme-stats.vercel.app/api?username=dontwike&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![dontwike's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dontwike&theme=tokyonight&hide_border=true)
+![dontwike's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dontwike&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+</div>
 
 <br>
-<br>
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/pranjal-goyal-9a8a9a213/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranjal goyal" />
+</a>
+
+<a href="https://twitter.com/_pranjal_goyal_" target="blank">
+<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="pranjal goyal"/>
+</a>
+
+<a href="https://instagram.com/dontwike" target="blank">
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pranjal goyal"/>
+</a>
+
+<a href="https://leetcode.com/dontwike" target="blank">
+<img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="pranjal goyal"/>
+</a>
+
+<a href="https://www.hackerrank.com/dontwike" target="blank">
+<img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="pranjal goyal"/>
+</a>
+</p>
