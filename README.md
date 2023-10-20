@@ -1,4 +1,4 @@
-[![@Pranjal's Holopin board](https://holopin.me/dontwike)](https://holopin.io/@dontwike)
+[![An image of @dontwike's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dontwike)](https://holopin.io/@dontwike)
 
 <div align=left>
        
