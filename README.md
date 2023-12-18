@@ -1,3 +1,4 @@
+
 [![An image of @dontwike's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dontwike)](https://holopin.io/@dontwike)
 
 <div align=left>
@@ -104,3 +105,5 @@ I am diligently working towards becoming a full-stack developer.
 <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="pranjal goyal"/>
 </a>
 </p>
+
+![GIF](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
