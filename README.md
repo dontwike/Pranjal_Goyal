@@ -20,6 +20,11 @@ I am diligently working towards becoming a full-stack developer.
 
 <br/>
 
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
 ## About Me
 
 - 🔭 I am currently in the final year of my Bachelor of Technology program in Computer Science and Engineering (CSE) at **DIT University**.
